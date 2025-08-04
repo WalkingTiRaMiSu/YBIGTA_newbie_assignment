@@ -1,5 +1,5 @@
 1. Direct Prompting, CoT Prompting, My Prompting을
-0 shot, 3 shot, 5 shot 정답률을 표로 보여주세요!
+0 shot, 3 shot, 5 shot 정답률을 표로 보여주세요!  
 
 |shot|Direct|CoT|My|
 |:----:|:------:|:---:|:---:|
