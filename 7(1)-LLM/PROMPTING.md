@@ -1,11 +1,11 @@
 1. Direct Prompting, CoT Prompting, My Prompting을
 0 shot, 3 shot, 5 shot 정답률을 표로 보여주세요!
 
-|Direct|CoT|My|
-|------|---|---|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
-|0.7|0.75|0.74|
+|shot|Direct|CoT|My|
+|----|------|---|---|
+|0|0.26|0.58|0.7|
+|3|0.2|0.62|0.75|
+|5|0.18|0.68|0.74|
 
 2. CoT Prompting이 Direct Prompting에 비해
 왜 좋을 수 있는지에 대해서 서술해주세요!  
