@@ -1,10 +1,14 @@
 1. Direct Prompting, CoT Prompting, My Prompting을
 0 shot, 3 shot, 5 shot 정답률을 표로 보여주세요!
 
-
+|Direct|CoT|My|
+|------|---|---|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
+|0.7|0.75|0.74|
 
 2. CoT Prompting이 Direct Prompting에 비해
-왜 좋을 수 있는지에 대해서 서술해주세요!
+왜 좋을 수 있는지에 대해서 서술해주세요!  
 Direct prompting은 문제의 답만을 예시로 제공하며 이를 모방하는 형식입니다. 그러나 결과만을 따라하기 때문에 문제 해결 과정이 존재하지 않습니다. 이와 다르게 Cot Prompting은 모델에 사고 흐름을 제시해주며 더 논리적인 답을 생성할 수 있게 해줍니다. 따라서 수학과 같은 논리적 흐름이 중요한 문제에서 CoT Prompting이 Direct Prompting에 비해 좋을 수 있었습니다.
 
 
